@@ -30,7 +30,7 @@
 
 <hr style="border: 0; height: 1px; background: #5b5b5c; margin: 20px 0;"/>
 
-### Conecte-se comigo
+### Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/miguel-henrique-cbl/" target="_blank">
