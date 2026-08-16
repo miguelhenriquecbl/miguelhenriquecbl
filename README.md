@@ -2,7 +2,7 @@
 
 # Olá, Bem-vindo(a)! 👋 Eu sou o Miguel
 
-🎓 Estudante de **Ciência da Computação** na **UCB** no 4º semestre  
+🎓 Estudante de **Ciência da Computação** na **UCB** no 6º semestre  
 
 </div>
 
